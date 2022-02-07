@@ -1,2 +1,2 @@
-[![bi119aTe5hXk's github stats](https://github-readme-stats.vercel.app/api?username=bi119aTe5hXk&show_icons=true&theme=great-gatsby&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bi119aTe5hXk&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bi119aTe5hXk&show_icons=true&theme=great-gatsby&count_private=true&show_icons=true&include_all_commits=true" alt="bi119aTe5hXk's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bi119aTe5hXk&layout=compact&theme=great-gatsby" alt="Top Langs"/></a> |
+| ------------- | ------------- |
